@@ -1,0 +1,3 @@
+[submodule "exp-e"]
+	path = exp-e
+	url = https://github.com/satishbraju/exp-e.git
