@@ -1,3 +1,6 @@
 [submodule "exp-e"]
 	path = exp-e
 	url = https://github.com/satishbraju/exp-e.git
+[submodule "exp-c"]
+	path = exp-c
+	url = https://github.com/satishbraju/exp-c.git
